@@ -70,12 +70,12 @@ const Navbar = () => {
             <Search style={{color:'gray', fontSize: 16}} />
           </SearchContainer>
         </Left>
-        <Center><Logo>The Wax Junkies</Logo></Center>
+        <Center><Logo> 忠孝敦化</Logo></Center>
         <Right>
           <MenuItem>Register</MenuItem>
           <MenuItem>Sign In</MenuItem>
           <MenuItem>
-            <Badge badgeContent={7} color='primary'>
+            <Badge badgeContent={8} color='primary'>
               <ShoppingCartOutlined /> 
             </Badge>
           </MenuItem>
